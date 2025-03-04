@@ -1,4 +1,4 @@
-# QI-14th-Winter-Program
+# QI-14th-Program
 14th Qualcomm Institute AI Research-focused Project - Winter 2025
 
 ## Overview
