@@ -1,7 +1,7 @@
 # QI-14th-Winter-Program
 14th Qualcomm Institute AI Research-focused Project - Winter 2025
 
-## Topic
+## Overview
 Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data
 
 ## Objective
