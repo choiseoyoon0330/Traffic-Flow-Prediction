@@ -1,5 +1,5 @@
 # QI-14th-Program
-This is the repository for Group 1 of the 14th Qualcomm Institute AI Research-focused Project.
+This is the repository for Group 1 of the 14th Qualcomm Institute AI Development Project.
 
 ## Overview
 Prediction of highway traffic flow based on artificial intelligence algorithms using California traffic data.
