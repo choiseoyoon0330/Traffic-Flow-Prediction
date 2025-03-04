@@ -4,6 +4,9 @@ This is the repository for Group 1 of the 14th Qualcomm Institute AI Research-fo
 ## Overview
 Prediction of highway traffic flow based on artificial intelligence algorithms using California traffic data.
 
+## Duration
+Jan 8, 2025 - Feb 16, 2025
+
 ## Objective
 To predict the traffic flow of ID 191 based on its historical volume and occupancy data.
 
